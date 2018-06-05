@@ -1,0 +1,22 @@
+{
+  "name": "hubot-reload",
+  "description": "Reload scripts without needin to restart your hubot instance",
+  "version": "0.0.1",
+  "author": "John Szaszvari <jszaszvari@gmail.com>",
+  "license": "MIT",
+  "keywords": "hubot, hubot reload, hubot load, hubot scripts, hubot scripting",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jszaszvari/hubot-reload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jszaszvari/hubot-reload/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "hubot": ">=2.x"
+  },
+  "devDependencies": {
+  },
+  "main": "index.js"
+}

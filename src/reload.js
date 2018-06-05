@@ -1,3 +1,14 @@
+// Description:
+// Reloads all currently loaded hubot scripts without needing to actually restart the bot
+//
+// Commands:
+//   hubot reload - Reload all currently loaded hubot scripts
+//
+// Notes:
+//   <optional notes required for the script>
+//
+// Author:
+//   John Szaszvari <jszaszvari@gmail.com>
 var Fs, Path, oldCommands, oldListeners;
 
 Fs = require('fs');
